@@ -31,7 +31,12 @@ Após o login bem-sucedido, o usuário será redirecionado para a tela principal
 - HTTP (para consumo de API)
 
 
-## 📷 Prints da aplicação
+## 📷 Imagens da aplicação
+
+**Utilizando o APP**
+
+<img src="./readme_images/ezgif.com-video-to-gif-converter.gif"/>
+<br/><br/>
 
 **Tela de Login:**
 
